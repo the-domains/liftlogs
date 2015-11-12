@@ -1,0 +1,23 @@
+name: LiftLogs
+favicon: null
+layout_spectrum: 0.07184390863403678
+typography_spectrum: 0.5382146963384002
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4282306903041899
+  lightness: 0.04593301098793745
+  saturation: 0.47305447212420404
+  rhythmicContrast: 0.02343926066532731
+purpose: []
